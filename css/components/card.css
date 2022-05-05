@@ -1,0 +1,17 @@
+.card img {
+  height: 400px;
+}
+
+.card p {
+  opacity: .7;
+}
+
+.card {
+  width: 70%;
+  border-radius: 2px;
+  box-shadow: 0 0 5px rgb(210,210,210);
+  text-align: center;
+  padding: 40px 40px 10px 40px;
+  border: 1px solid rgb(210,210,210);
+  margin: 4px;
+}

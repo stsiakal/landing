@@ -1,0 +1,11 @@
+.btn-first {
+  background-color: #1EDD88;
+  padding: 16px 32px;
+  border-radius: 50px;
+  color: white;
+  display: block;
+}
+
+.btn-first:hover {
+  background-color: #128853;
+}
