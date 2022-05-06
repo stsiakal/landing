@@ -3,10 +3,10 @@
 
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
-@import url('css/components/button.css');
-@import url('css/components/card.css');
-@import url('css/components/banner.css');
-@import url('css/components/footer.css');
+@import url('/css/components/button.css');
+@import url('/css/components/card.css');
+@import url('/css/components/banner.css');
+@import url('/css/components/footer.css');
 /* Utilities */
 body {
   margin: 0;
